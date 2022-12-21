@@ -4,7 +4,7 @@ from app import App
 
 
 def main():
-    App().run(sys.argv)
+    App().run(sys.argv )
 
 
 if __name__ == "__main__":

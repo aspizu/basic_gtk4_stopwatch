@@ -1,0 +1,5 @@
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON CACHE INTERNAL "")
+project(stopwatch)
+find_package(PkgConfig)
+pkg_check_modules(GTKMM gtkmm-4.0)
+add_subdirectory(src)

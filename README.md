@@ -1,4 +1,3 @@
-# basic_gtk4_stopwatch
-Basic GTK 4 / Libadwaita Stopwatch App in Python
+# Basic GTK4 Stopwatch Application
 
-![](screenshot.png)
+[]()
